@@ -7,8 +7,8 @@ const porta = 3333;
 function mostraMulher(request, response) {
     response.json({
         nome: 'Camila Zancanella',
-        imagem: 'https://static.wikia.nocookie.net/studio-ghibli/images/f/ff/Kiki%27s_Delivery_Service_English.jpg/revision/latest?cb=20220413205802',
-        minibio: 'Kiki delivery service, ghibli'
+        imagem: 'https://avatars.githubusercontent.com/u/101130880?v=4',
+        minibio: 'Estudante de análise e desenvolvimento de sistemas, mãe da Ravióli'
     })
 }
 
