@@ -9,7 +9,7 @@ async function conectaBancodeDados() {
     
         console.log('Conexão com banco de dados feita com sucesso!')
     
-    } catch(error) {
+    } catch(erro) {
         console.log(erro)
     }
 }
